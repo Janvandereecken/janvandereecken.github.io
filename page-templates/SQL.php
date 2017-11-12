@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Welcome to Jan Van der Eecken's SQL BLog</title>
+    <title>Foundation | Welcome</title>
     <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
     
     <link rel="stylesheet" href="css/foundation.css">
@@ -16,9 +16,9 @@
       <div class="top-bar-left">
         <ul class="menu">
           <li class="menu-text">Blog</li>
-          <li><a href="#">A beginner's guide</a></li>
-          <li><a href="#">Intermediate SQL</a></li>
-          <li><a href="#">Advanced SQL</a></li>
+          <li><a href="#">First</a></li>
+          <li><a href="#">Two</a></li>
+          <li><a href="#">Three</a></li>
         </ul>
       </div>
     </div>
@@ -75,7 +75,7 @@
         <p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
         <div class="callout">
           <ul class="menu simple">
-            <li><a href="#">Author: Jan Van der Eecken</a></li>
+            <li><a href="#">Author: Mike Mikers</a></li>
             <li><a href="#">Comments: 3</a></li>
           </ul>
         </div>
